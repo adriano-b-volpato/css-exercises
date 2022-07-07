@@ -6,14 +6,27 @@
 * **The fourth element**: a light green background, a font size of 24px, and bold*/
 
 
-class
+
 .odd_number {
-    background-color: rgb(255,204,203)
+    background-color: rgb(255,204,203);
+    font-family:Verdana, "DejaVu Sans", sans-serif;
+
   }
 
 
-id
-#title {
-    background-color: red;
+#second {
+    color: blue;
+    font-size: 36px;
   }
 
+
+#third {
+    font-size: 24px;
+  }
+
+  
+#forth {
+    background-color: rgb(144,238,144);
+    font-size: 24px;
+    font-weight: bold;
+  }
